@@ -1,0 +1,18 @@
+/* Make sure the body and root elements fill the whole height */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+/* TradingView container */
+.tradingview-widget-container {
+  height: 100%;
+  width: 100%;
+}
+
+/* Ensure the widget itself fills its container */
+#tradingview_33f92 {
+  height: 100%;
+}

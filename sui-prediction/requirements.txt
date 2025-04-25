@@ -1,0 +1,6 @@
+requests
+pandas
+numpy
+scikit-learn
+joblib
+ta # Technical Analysis library
